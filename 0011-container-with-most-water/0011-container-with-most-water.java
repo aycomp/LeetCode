@@ -6,8 +6,8 @@ class Solution {
         int right = height.length - 1;
 
         while (left < right) {
-            int length = right - left;
-            int tempArea = Math.min(height[left], height[right]) * length;
+            int width = right - left;
+            int tempArea = Math.min(height[left], height[right]) * width;
 
             maxArea = Math.max(tempArea, maxArea);
 
