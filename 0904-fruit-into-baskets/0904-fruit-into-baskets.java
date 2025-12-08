@@ -1,11 +1,10 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-
         Map<Integer, Integer> map = new HashMap<>();
         int left = 0;
         int maxLen = 0;
 
-        for (int right = 0; right < fruits.length; right ++) {
+        for (int right = 0; right < fruits.length; right++) {
             map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
 
             while (map.size() > 2) {
@@ -14,13 +13,12 @@ class Solution {
                 if (map.get(fruits[left]) == 0) {
                     map.remove(fruits[left]);
                 }
-
                 left++;
             }
+
             maxLen = Math.max(maxLen, right - left + 1);
         }
 
         return maxLen;
-        
     }
 }
