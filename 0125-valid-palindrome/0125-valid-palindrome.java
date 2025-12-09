@@ -6,10 +6,10 @@ class Solution {
         int right = s.length() - 1;
 
         while (left < right) {
-
+            
             while (left < right && !Character.isLetterOrDigit(c[left])) left++;
 
-            while (left < right && !Character.isLetterOrDigit(c[right])) right--;
+            while (left < right && !(Character.isLetterOrDigit(c[right]))) right--;
 
             if (c[left] != c[right]) {
                 return false;
@@ -20,5 +20,6 @@ class Solution {
         }
 
         return true;
+
     }
 }
