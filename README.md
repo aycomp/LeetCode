@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aycomp/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aycomp/LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/aycomp/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aycomp/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aycomp/LeetCode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aycomp/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aycomp/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aycomp/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aycomp/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aycomp/LeetCode/tree/master/0349-intersection-of-two-arrays) |
