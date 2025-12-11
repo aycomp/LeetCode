@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aycomp/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aycomp/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aycomp/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/aycomp/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/aycomp/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aycomp/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aycomp/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aycomp/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/aycomp/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
