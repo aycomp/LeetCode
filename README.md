@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aycomp/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aycomp/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/aycomp/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/aycomp/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aycomp/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aycomp/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/aycomp/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/aycomp/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
